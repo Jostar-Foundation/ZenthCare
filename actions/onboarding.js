@@ -2,7 +2,6 @@
 
 import { db } from "@/lib/prisma";
 import { auth } from "@clerk/nextjs/server";
-import { redirect } from "express/lib/response";
 import { revalidatePath } from "next/cache";
 
 /**
@@ -86,7 +85,7 @@ export async function getCurrentUser() {
   const { userId } = await auth();
 
   if (!userId) {
-    throw new Error("Unauthorized");
+    return null;
   }
 
   try {

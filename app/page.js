@@ -7,6 +7,7 @@ import { PricingTable } from "@clerk/nextjs";
 import { ArrowRight, Check, Stethoscope } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from 'react-icons/fa';
 
 export default function Home() {
   return (
@@ -15,7 +16,7 @@ export default function Home() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
 
           {/* Left: Text Content */}
-          <div className="space-y-2 text-center lg:text-left">
+          <div className="space-y-1 text-center lg:text-left">
             <Badge
               variant="outline"
               className="rounded-none bg-emerald-900/30 border-emerald-700/30 px-4 py-2 text-emerald-400 text-sm font-medium"
@@ -260,24 +261,23 @@ export default function Home() {
             </div>
 
             {/* Social Links */}
-            <div>
-              <h3 className="text-lg font-semibold text-white mb-3">Follow Us</h3>
-              <div className="flex space-x-4">
-                <a href="#" className="hover:text-emerald-400 transition">
-                  <i className="bx bxl-facebook text-2xl"></i>
-                </a>
-                <a href="#" className="hover:text-emerald-400 transition">
-                  <i className="bx bxl-twitter text-2xl"></i>
-                </a>
-                <a href="#" className="hover:text-emerald-400 transition">
-                  <i className="bx bxl-linkedin text-2xl"></i>
-                </a>
-                <a href="#" className="hover:text-emerald-400 transition">
-                  <i className="bx bxl-instagram text-2xl"></i>
-                </a>
-              </div>
-
-            </div>
+<div>
+  <h3 className="text-lg font-semibold text-white mb-3">Follow Us</h3>
+  <div className="flex space-x-4">
+    <a href="#" className="hover:text-emerald-400 transition">
+      <FaFacebookF className="text-2xl" />
+    </a>
+    <a href="#" className="hover:text-emerald-400 transition">
+      <FaTwitter className="text-2xl" />
+    </a>
+    <a href="#" className="hover:text-emerald-400 transition">
+      <FaLinkedinIn className="text-2xl" />
+    </a>
+    <a href="#" className="hover:text-emerald-400 transition">
+      <FaInstagram className="text-2xl" />
+    </a>
+  </div>
+</div>
 
           </div>
 

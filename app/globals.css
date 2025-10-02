@@ -1,6 +1,5 @@
 @import "tailwindcss";
 @import "tw-animate-css";
-@import "boxicons/css/boxicons.min.css";
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
@@ -116,7 +115,7 @@ body {
   --sidebar-ring: oklch(0.556 0 0);
 }
 
-.light {
+/* .light {
   --radius: 0.625rem;
   --background: oklch(1 0 0);
   --foreground: oklch(0.145 0 0);
@@ -149,7 +148,7 @@ body {
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
-}
+} */
 
 @layer base {
   * {

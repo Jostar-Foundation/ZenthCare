@@ -92,7 +92,8 @@ step 1] - Installation and Setup
                 -- (wrap the app with ThemeProvider in layout.js file)
 
         
-        3.
+        3.npm install react-icons
+
 
 
 
