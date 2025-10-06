@@ -26,13 +26,10 @@ export default function Home() {
 
             <h1
               className="font-bold text-white gradient-title leading-tight"
-              style={{ fontSize: "clamp(3rem, 6.3vw, 8.3rem)" }}
+              style={{ fontSize: "clamp(3.3rem, 6.3vw, 8.3rem)" }}
             >
               ZenthCare
             </h1>
-
-
-
 
             <h2 className="text-xl md:text-3xl lg:text-4xl font-semibold text-white leading-snug gradient-context">
               Connects with Doctors <br />
