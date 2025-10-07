@@ -37,7 +37,7 @@ export default function RootLayout({ children }) {
         <ClerkProvider appearance={{ baseTheme: dark }}>
           <ThemeProvider
             attribute="class"
-            defaultTheme="system"
+            defaultTheme="light"
             enableSystem
             disableTransitionOnChange
           >

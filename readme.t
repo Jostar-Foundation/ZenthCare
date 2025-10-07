@@ -97,7 +97,14 @@ step 1] - Installation and Setup
             -> npm install react-icons
 
 
-        4. 
+        4. User Authentication and user management using Clerk.
+            * Installing the dependencies for Clerk:
+            -> npm install @clerk/nextjs @clerk/clerk-sdk-node
+
+            -> Create a Clerk account and get the API keys.
+            -> Add the API keys to the .env file.
+            -> Wrap the app with ClerkProvider in layout.js file.
+            -> Create a sign-in and sign-up page using Clerk components.
 
 
 Step 2]
