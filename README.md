@@ -1,3 +1,52 @@
+# 🏥 ZenthCare: Smart Healthcare Platform
+
+## 📌 Introduction
+ZenthCare is a web-based healthcare platform designed to streamline and enhance interactions between patients and healthcare providers (doctors) through online services. It leverages modern digital tools to create a seamless experience for both parties.
+
+## 🎯 Purpose
+The primary purpose of ZenthCare is to improve the **accessibility**, **efficiency**, and **quality** of healthcare services through digital transformation. The platform aims to:
+- Minimize delays in communication
+- Simplify the appointment process
+- Provide a seamless online system for patients and healthcare providers
+
+## 🎯 Key Objectives
+ZenthCare is built around the following core objectives:
+
+| Objective                | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| Appointment Scheduling   | Easy-to-use booking system to reduce waiting times and avoid conflicts      |
+| Credits System           | Subscription-based model where users earn credits for consultations         |
+| User-Friendly Interface  | Designed for ease of use by both patients and healthcare professionals      |
+| Time & Cost Efficiency   | Reduces manual administrative tasks and operational costs                   |
+
+## 📦 Scope of the Platform
+ZenthCare offers a wide range of features and functionalities to support healthcare operations:
+
+- 👤 **Patient Registration & Profile Management**  
+  Patients can securely register and maintain personal and medical records.
+
+- 📊 **Role-Based Dashboards**  
+  Customized dashboards for patients, doctors, and administrators.
+
+- 🛠️ **Admin Panel**  
+  Administrators can manage doctor schedules, patient data, and system operations.
+
+- 📅 **Appointment Management**  
+  Patients can book, cancel, or reschedule appointments. Healthcare staff can manage schedules efficiently.
+
+## ⚠️ Limitations
+While ZenthCare offers numerous benefits, it also has certain limitations:
+
+- 🌐 **Internet Dependency**  
+  Video call quality is affected by network speed and stability.
+
+- 💳 **Third-Party API Reliance**  
+  Financial transactions depend on external APIs, which may introduce latency or service dependency.
+
+- 👥 **Basic Role Support**  
+  The system currently supports only fundamental user roles and functionalities, limiting advanced customization.
+
+---
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
