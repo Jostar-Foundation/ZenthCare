@@ -1,7 +1,7 @@
 # 🏥 ZenthCare: Smart Healthcare Platform
 
 ## 📌 Introduction
-ZenthCare is a web-based healthcare platform designed to streamline and enhance interactions between patients and healthcare providers (doctors) through online services. It leverages modern digital tools to create a seamless experience for both parties.
+ZenthCare is a web-based Telemedicine platforms aiming to connect doctors with remote patients. Designed to streamline and enhance interactions between patients and healthcare providers (doctors) through online services. It leverages modern digital tools to create a seamless experience for both parties.
 
 ## 🎯 Purpose
 The primary purpose of ZenthCare is to improve the **accessibility**, **efficiency**, and **quality** of healthcare services through digital transformation. The platform aims to:
