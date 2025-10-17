@@ -11,27 +11,27 @@ promotes medical data confidentiality and accessibility.
 
 <p align="center">
   <a href="https://react.dev" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/React-logo.png" width="65" alt="React Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/React-logo.png" width="60" alt="React Logo"/></a>
 <a href="https://clerk.com" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/clerk-logo.png" width="65" alt="Clerk Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/clerk-logo.png" width="60" alt="Clerk Logo"/></a>
 <a href="https://eslint.org" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/eslint-logo.png" width="65" alt="ESLint Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/eslint-logo.png" width="60" alt="ESLint Logo"/></a>
 <a href="https://neon.tech" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/neon-logo.png" width="65" alt="Neon Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/neon-logo.png" width="60" alt="Neon Logo"/></a>
 <a href="https://nextjs.org" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/nextjs-logo.png" width="65" alt="Next.js Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/nextjs-logo.png" width="60" alt="Next.js Logo"/></a>
 </p>
 <p align="center">
 <a href="https://www.prisma.io" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/prisma-logo.jpeg" width="65" alt="Prisma Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/prisma-logo.jpeg" width="60" alt="Prisma Logo"/></a>
 <a href="https://ui.shadcn.com" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/shadcn-logo.png" width="65" alt="shadcn/ui Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/shadcn-logo.png" width="60" alt="shadcn/ui Logo"/></a>
 <a href="https://tailwindcss.com" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/tailwind-logo.png" width="65" alt="Tailwind CSS Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/tailwind-logo.png" width="60" alt="Tailwind CSS Logo"/></a>
 <a href="https://vercel.com" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/vercel-logo.png" width="65" alt="Vercel Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/vercel-logo.png" width="60" alt="Vercel Logo"/></a>
 <a href="https://www.vonage.com" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/vonaga-logo.png" width="65" alt="Vonage Logo"/></a>
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/vonaga-logo.png" width="60" alt="Vonage Logo"/></a>
 </p>
 
 ## 🎯 Key Objectives
