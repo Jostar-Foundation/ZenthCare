@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/homepage.png" />
 
-<h1><img width="28px" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/zenthgreen.png" />enthCare: Smart Healthcare Platform</h1>
+<h1><img width="28px" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/zenthgreen.png" />enthCare: Smart Healthcare Ecosystem</h1>
 
 ZenthCare is a web-based Telemedicine platforms aiming to connect doctors with remote patients. Designed to streamline and enhance interactions between patients and healthcare providers (doctors) through online services. It leverages modern digital tools to create a seamless experience for both parties. The platform ensures secure data handling, seamless 
 booking, and a smooth user experience. With an integrated admin panel, administrators can 
