@@ -2,10 +2,9 @@
 
 <h1><img width="28px" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/zenthgreen.png" />enthCare: Smart Healthcare Platform</h1>
 
-## 📌 Introduction
 ZenthCare is a web-based Telemedicine platforms aiming to connect doctors with remote patients. Designed to streamline and enhance interactions between patients and healthcare providers (doctors) through online services. It leverages modern digital tools to create a seamless experience for both parties.
 
-## 🎯 Purpose
+## 💫 Purpose
 The primary purpose of ZenthCare is to improve the **accessibility**, **efficiency**, and **quality** of healthcare services through digital transformation. The platform aims to:
 - Minimize delays in communication
 - Simplify the appointment process
@@ -48,7 +47,7 @@ While ZenthCare offers numerous benefits, it also has certain limitations:
 - 👥 **Basic Role Support**  
   The system currently supports only fundamental user roles and functionalities, limiting advanced customization.
 
----
+<details>
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -90,3 +89,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # ZenthCare
 This is the smart health care ecosystem.
 >>>>>>> 273f19cd72a78cc4fc103ff5a4f2a58fbf643fb5
+
+</details>
+
+---
+
+<div align="center">
+  ⚠️ This repository is uniquely designed by @JoshuaThadi
+</div>
