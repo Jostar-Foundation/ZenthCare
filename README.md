@@ -4,6 +4,34 @@
 
 ZenthCare is a web-based Telemedicine platforms aiming to connect doctors with remote patients. Designed to streamline and enhance interactions between patients and healthcare providers (doctors) through online services. It leverages modern digital tools to create a seamless experience for both parties.
 
+
+<p align="center">
+  <a href="https://react.dev" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/React-logo.png" width="100" alt="React Logo"/></a>
+<a href="https://clerk.com" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/clerk-logo.png" width="100" alt="Clerk Logo"/></a>
+<a href="https://eslint.org" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/eslint-logo.png" width="100" alt="ESLint Logo"/></a>
+<a href="https://neon.tech" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/neon-logo.png" width="100" alt="Neon Logo"/></a>
+<a href="https://nextjs.org" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/nextjs-logo.png" width="100" alt="Next.js Logo"/></a>
+</p>
+<p align="center">
+  <a href="https://www.prisma.io" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/prisma-logo.jpeg" width="100" alt="Prisma Logo"/></a>
+<a href="https://ui.shadcn.com" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/shadcn-logo.png" width="100" alt="shadcn/ui Logo"/></a>
+<a href="https://tailwindcss.com" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/tailwind-logo.png" width="100" alt="Tailwind CSS Logo"/></a>
+<a href="https://vercel.com" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/vercel-logo.png" width="100" alt="Vercel Logo"/></a>
+<a href="https://www.vonage.com" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/vonaga-logo.png" width="100" alt="Vonage Logo"/></a>
+</p>
+
+
+
 ## 💫 Purpose
 The primary purpose of ZenthCare is to improve the **accessibility**, **efficiency**, and **quality** of healthcare services through digital transformation. The platform aims to:
 - Minimize delays in communication
