@@ -6,6 +6,7 @@ import { creditBenefits, features, testimonials } from "@/lib/data";
 import { PricingTable } from "@clerk/nextjs";
 import { ArrowRight, Check, Stethoscope } from "lucide-react";
 import Image from "next/image";
+import './globals.css';
 import Link from "next/link";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from 'react-icons/fa';
 
