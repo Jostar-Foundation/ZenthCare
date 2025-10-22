@@ -16,14 +16,14 @@ promotes medical data confidentiality and accessibility.
   <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/clerk-logo.png" width="70" alt="Clerk Logo"/></a>
 <a href="https://eslint.org" target="_blank">
   <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/eslint-logo.png" width="70" alt="ESLint Logo"/></a>
-<a href="https://neon.tech" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/neon-logo.png" width="70" alt="Neon Logo"/></a>
-<a href="https://nextjs.org" target="_blank">
-  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/nextjs-logo.png" width="70" alt="Next.js Logo"/></a>
-</p>
-<p align="center">
 <a href="https://www.prisma.io" target="_blank">
   <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/prisma-logo.jpeg" width="70" alt="Prisma Logo"/></a>
+<a href="https://neon.tech" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/neon-logo.png" width="70" alt="Neon Logo"/></a>
+</p>
+<p align="center">
+<a href="https://nextjs.org" target="_blank">
+  <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/nextjs-logo.png" width="70" alt="Next.js Logo"/></a>
 <a href="https://ui.shadcn.com" target="_blank">
   <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/icons/shadcn-logo.png" width="70" alt="shadcn/ui Logo"/></a>
 <a href="https://tailwindcss.com" target="_blank">
