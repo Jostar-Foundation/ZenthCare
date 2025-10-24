@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/homepage.png" />
+<img width="100%" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/zenthcare-banner.png" />
 
 <h1><img width="28px" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/zenthgreen.png" />enthCare: Smart Healthcare Ecosystem</h1>
 
@@ -142,6 +142,9 @@ This is the smart health care ecosystem.
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <div style="flex: 1 1 45%; min-width: 300px;">
+      <img width="100%" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/homepage.png" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
       <img src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/onboarding.png?raw=true" width="100%" />
     </div>
     <div style="flex: 1 1 45%; min-width: 300px;">
@@ -166,5 +169,5 @@ This is the smart health care ecosystem.
 ---
 
 <div align="center">
-  ⚠️ This repository is uniquely designed by @JoshuaThadi
+  ⚠️ This repository is uniquely designed by <b>@JoshuaThadi</b>
 </div>
