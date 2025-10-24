@@ -169,5 +169,5 @@ This is the smart health care ecosystem.
 ---
 
 <div align="center">
-  ⚠️ This repository is uniquely designed by <b>@JoshuaThadi</b>
+  ⚠️ This repository is uniquely designed by <b>@JoshuaThadi</b>.
 </div>
