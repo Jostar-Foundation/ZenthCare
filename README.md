@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/zenthcare-b2.png" />
+<img width="100%" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/zenthbanner.png" />
 
 <h1><img width="28px" src="https://github.com/Jostar-Foundation/ZenthCare/blob/master/assets/zenthgreen.png" />enthCare: Smart Healthcare Ecosystem</h1>
 
