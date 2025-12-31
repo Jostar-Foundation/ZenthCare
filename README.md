@@ -92,48 +92,52 @@ While ZenthCare offers numerous benefits, it also has certain limitations:
 - 👥 **Basic Role Support**  
   The system currently supports only fundamental user roles and functionalities, limiting advanced customization.
 
+> [!IMPORTANT]
+>
+> **Error:**  
+> - Duplicate appointment created for the same doctor and time slot.
+>
+> **Cause:**  
+> - Two booking requests were processed at the same time.  
+> - The database did not enforce a unique rule on `(doctorId, date, timeSlot)`, allowing both entries.
+>
+> **Solution:**  
+> - Added a **database-level unique constraint** to prevent double-booking.  
+> - Wrapped booking logic in a **transaction** to lock the time slot during save.  
+> - Added server-side validation to reject conflicting appointments.
+
 <details>
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<summary>Project Contribution Breakdown</summary>
 
-## Getting Started
+### ✅ What I Did
 
-First, run the development server:
+- Designed and developed a web-based telemedicine platform connecting doctors and remote patients.  
+- Built secure modules for patient registration, appointment scheduling, and medical data management.  
+- Implemented role-based dashboards for patients, doctors, and administrators.  
+- Integrated an admin panel to manage appointments, doctor availability, and patient records.  
+- Ensured data confidentiality, usability, and a smooth end-to-end user experience across the platform.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🛠️ How I Did It
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Applied **Role-Based Access Control (RBAC)** to separate permissions across user roles.  
+- Designed intuitive workflows for booking, canceling, and rescheduling appointments.  
+- Implemented secure handling of sensitive health data with structured patient profiles.  
+- Built admin tools to manage doctor schedules, appointments, and system operations efficiently.  
+- Optimized UI/UX to make teleconsultations simple and accessible.  
+- Planned integrations for **payments, diagnostics, and prescriptions** using third-party APIs.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### 📈 Impact
 
-To learn more about Next.js, take a look at the following resources:
+- Reduced patient waiting time through streamlined appointment booking and remote consultations.  
+- Improved communication between doctors and patients using a centralized platform.  
+- Enabled administrators to manage operations more efficiently from a unified dashboard.  
+- Increased data accuracy and reduced manual paperwork through digital record management.  
+- Expanded healthcare accessibility for remote and underserved areas.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# ZenthCare
-This is the smart health care ecosystem.
->>>>>>> 273f19cd72a78cc4fc103ff5a4f2a58fbf643fb5
 
 </details>
 
